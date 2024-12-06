@@ -1,0 +1,9 @@
+streamlit
+scipy
+pandas
+matplotlib
+seaborn
+requests
+Pillow
+python-docx
+scikit-learn
